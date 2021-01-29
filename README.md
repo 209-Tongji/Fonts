@@ -6,19 +6,34 @@ Fonts downloaded from the Internet are only for personal study and research. Fon
 | Font list                         | Font name          | Type   | Charset    | Format   | Year |
 | --------------------------------- | ------------------ | ------ | ---------- | -------- | ---- |
 | HYBaiQingTiJ.ttf                  | 汉仪柏青简体       | 手写体 | J, F, W, L | OTF, TTF | 2002 |
-| HYChangLiSongKeBen(Original)W.ttf | 汉仪昌黎宋刻本原版 | 书法体 | J, F, W, L | OTF, TTF | 2018 |
-| HYDaLiShuJ.ttf                    | 汉仪大隶书简体     | 书法体 | J, F, W, L | OTF, TTF | 1996 |
-| HYDunHuangXieJingW.ttf            | 汉仪敦煌写经体     | 书法体 | J, F, W, L | OTF, TTF | 2018 |
-| HYGuLiW.ttf                       | 汉仪古隶           | 书法体 | J, F, W, L | OTF, TTF | 2019 |
+| HYChangLiSongKeBen(Original)W.ttf | 汉仪昌黎宋刻本原版  | 印刷体 | J, F, W, L | OTF, TTF | 2018 |
+| HYDaLiShuJ.ttf                    | 汉仪大隶书简体     | 书法体(隶书) | J, F, W, L | OTF, TTF | 1996 |
+| HYDunHuangXieJingW.ttf            | 汉仪敦煌写经体     | 书法体(魏楷) | J, F, W, L | OTF, TTF | 2018 |
+| HYGuLiW.ttf                       | 汉仪古隶          | 书法体(隶书) | J, F, W, L | OTF, TTF | 2019 |
 | HYShangWeiHeFengTiW.ttf           | 汉仪尚巍和风体     | 手写体 | J, F, W, L | OTF, TTF | 2020 |
-| HYShouJinShuJ.ttf                 | 汉仪瘦金书简体     | 书法体 | J, F, W, L | OTF, TTF | 2000 |
-| HYShuTongTiJ.ttf                  | 汉仪舒同体简体     | 书法体 | J, F, W, L | OTF, TTF | 1996 |
-| HYWeiBeiJ.ttf                     | 汉仪魏碑简         | 书法体 | J, F, W, L | OTF, TTF | 1996 |
+| HYShouJinShuJ.ttf                 | 汉仪瘦金书简体     | 书法体(行楷) | J, F, W, L | OTF, TTF | 2000 |
+| HYShuTongTiJ.ttf                  | 汉仪舒同体简体     | 书法体(行书) | J, F, W, L | OTF, TTF | 1996 |
+| HYWeiBeiJ.ttf                     | 汉仪魏碑简        | 书法体(魏楷) | J, F, W, L | OTF, TTF | 1996 |
 | HYYanHuShouShuW.ttf               | 汉仪彦湖手书体     | 手写体 | J, F, W, L | OTF, TTF | 2019 |
-| HYYanKaiW.ttf                     | 汉仪颜真卿楷体     | 书法体 | J, F, W, L | OTF, TTF | 2019 |
+| HYYanKaiW.ttf                     | 汉仪颜真卿楷体     | 书法体(楷书) | J, F, W, L | OTF, TTF | 2019 |
 | HYZengXiangChanQuTiW.ttf          | 汉仪曾翔禅趣体     | 手写体 | J, F, W, L | OTF, TTF | 2020 |
 | HanyiSentyJournal.ttf             | 汉仪新蒂手札体     | 手写体 | J, F, W, L | OTF, TTF | 2018 |
-| HanyiSentyZHAO.ttf                | 汉仪新蒂赵孟頫体   | 书法体 | J, L       | OTF, TTF | 2016 |
+| HanyiSentyZHAO.ttf                | 汉仪新蒂赵孟頫体   | 书法体(行楷) | J, L       | OTF, TTF | 2016 |
+| FZYanZQKSJF.ttf                   | 方正颜真卿楷书     | 书法体(楷书) | J, F, W, L | OTF, TTF | 2020 |
+| FZLiuGQKSJW.ttf                   | 方正柳公权楷书     | 书法体(楷书) | J, L | OTF, TTF | 2020 |
+| FZSuSXSJF.ttf                     | 方正苏轼行书      | 书法体(行书) | J, F, W, L | OTF, TTF | 2020 |
+| FZHuangTJXSJF.ttf                 | 方正黄庭坚行书     | 书法体(行书) | J, F, W, L | OTF, TTF | 2020 |
+| FZZhaoJSJSJF.ttf                  | 方正赵佶瘦金书     | 书法体(行楷) | J, F, W, L | OTF, TTF | 2020 |
+| FZZhaoMFKSJF.ttf                  | 方正赵孟頫楷书     | 书法体(楷书) | J, F, W, L | OTF, TTF | 2020 |
+| FZZhaoMFXSJF.ttf                  | 方正赵孟頫行书     | 书法体(行书) | J, F, W, L | OTF, TTF | 2020 |
+| FZWenZMXCJF.ttf                   | 方正文征明行草     | 书法体(行草) | J, F, W, L | OTF, TTF | 2020 |
+| FZWangDXCJW.ttf                   | 方正王铎行草      | 书法体(行草) | J, L | OTF, TTF | 2019 |
+| FZCuanBZBKSJW.ttf                 | 方正爨宝子碑楷书   | 书法体(魏楷) | J, F, W, L | OTF, TTF | 2019 |
+| FZLuXXSJW.ttf                     | 方正鲁迅行书      | 书法体(行书) | J, L | OTF, TTF | 2019 |
+| FZShenYMXSJW.ttf                  | 方正沈尹默行书     | 书法体(行书) | J, L | OTF, TTF | 2019 |
+| FZShuTXSJF.ttf                    | 方正舒同行书      | 书法体(行书) | J, F, W, L | OTF, TTF | 2019 |
+| FZQiGXKJW.ttf                     | 方正启功行楷      | 书法体(行楷) | J, L | OTF, TTF | 2019 |
+| FZLiuBSLSJW.ttf                   | 方正刘炳森隶书     | 书法体(隶书) | J, L | OTF, TTF | 2019 |
 
 * Charset 字符集：
 
